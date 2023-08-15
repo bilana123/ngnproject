@@ -1,0 +1,60 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 10%;
+}
+#label {
+  background-color: #f7f7f7;
+  border-radius: 2px;
+  padding: 50px;
+  box-shadow: 0 0 5px;
+}
+
+.Input input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  margin-bottom: 10px;
+  align-items: center;
+}
+p {
+  text-align: center;
+  color: #4a54e9;
+}
+
+.login button {
+  display: block;
+  width: 112%;
+  padding: 10px;
+  background-color: #4a54e9;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+}
+.create button {
+  display: block;
+  width: 110%;
+  padding: 10px;
+  background-color: #11da21;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.facebook {
+  justify-content: center;
+  text-align: start;
+  color: #4a54e9;
+  font-size: 20px;
+}
+.facebook p {
+  color: black;
+  text-align: justify;
+  font-family: Arial, sans-serif;
+  justify-content: space-around;
+}

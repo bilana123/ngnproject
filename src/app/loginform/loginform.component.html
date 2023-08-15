@@ -1,0 +1,122 @@
+<!-- As a link -->
+<nav class="navbar navbar-light bg-primary">
+  <div class="container-fluid">
+    <div class="d-flex display-end">
+      <button
+        type="button"
+        class="btn btn-success"
+        data-bs-toggle="modal"
+        data-bs-target="#staticBackdrop"
+      >
+        Add employee
+      </button>
+    </div>
+  </div>
+</nav>
+<table class="table mt-3">
+  <thead>
+    <tr>
+      <th scope="col">employee id</th>
+      <th scope="col">Name</th>
+      <th scope="col">email</th>
+      <th scope="col">address</th>
+      <th scope="col">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngor="let row of employeedata">
+      <td>{{ row.id }}</td>
+      <td>{{ row.name }}</td>
+      <td>{{ row.email }}</td>
+      <td>{{ row.address }}</td>
+      <td>{{ row.salary }}</td>
+      <td>
+        <button class="btn btn-success">Edit</button>
+        <button class="btn btn-success">delete</button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<!-- Button trigger modal -->
+
+<!-- Modal -->
+<div
+  class="modal fade"
+  id="staticBackdrop"
+  data-bs-backdrop="static"
+  data-bs-keyboard="false"
+  tabindex="-1"
+  aria-labelledby="staticBackdropLabel"
+  aria-hidden="true"
+>
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="staticBackdropLabel">Employee form</h1>
+        <button
+          type="button"
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Close"
+        ></button>
+      </div>
+      <!-- ... Previous HTML content ... -->
+
+      <div class="modal-body">
+        <form (ngSubmit)="postEmployee()">
+          <div class="mb-3">
+            <label for="modal-name" class="form-label">Name</label>
+            <input id="modal-name" class="form-control" />
+          </div>
+          <div class="mb-3">
+            <label for="email" class="form-label">Email</label>
+            <input
+              type="text"
+              class="form-control"
+              id="email"
+              aria-describedby="emailHelp"
+              [(ngModel)]="email"
+            />
+          </div>
+          <div class="mb-3">
+            <label for="address" class="form-label">Address</label>
+            <input
+              [(ngModel)]="address"
+              type="text"
+              id="address"
+              class="form-control"
+              aria-describedby="employee_idHelp"
+            />
+          </div>
+          <div class="mb-3">
+            <label for="salary" class="form-label">Salary</label>
+            <input
+              [(ngModel)]="salary"
+              type="text"
+              id="salary"
+              class="form-control"
+              aria-describedby="employee_idHelp"
+            />
+          </div>
+          <div class="mb-3">
+            <input type="text" class="form-control" id="otherSalary" />
+          </div>
+        </form>
+      </div>
+
+      <div class="modal-footer">
+        <button
+          type="button"
+          id="cancel"
+          class="btn btn-secondary"
+          data-bs-dismiss="modal"
+        >
+          Close
+        </button>
+        <button type="button" (click)="postEmployee()" class="btn btn-primarys">
+          Add details
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

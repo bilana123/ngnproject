@@ -1,0 +1,488 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": ""
+    },
+    {
+      "id": 3,
+      "name": "bilana ghalley",
+      "email": "",
+      "address": "biru",
+      "salary": "222"
+    },
+    {
+      "id": 4,
+      "name": "bilana ghalley",
+      "email": "bilanaghalley@56gmail.com",
+      "address": "biru",
+      "salary": "222"
+    },
+    {
+      "id": 5,
+      "name": "bilana ghalley",
+      "email": "bilanaghalley@56gmail.com",
+      "address": "biru",
+      "salary": "1234567"
+    },
+    {
+      "id": 6,
+      "name": "bilana",
+      "email": "05210220.jnec@rub.edu.bt",
+      "address": "biru",
+      "salary": "12345"
+    },
+    {
+      "id": 7,
+      "name": "bilana",
+      "email": "05210217.jnec@rub.edu.bt",
+      "address": "biru",
+      "salary": "222"
+    },
+    {
+      "id": 8,
+      "name": "bilana",
+      "email": "bilanaghalley@56gmail.com",
+      "address": "biru",
+      "salary": "1234"
+    },
+    {
+      "id": 9,
+      "name": "bilana ghalley",
+      "email": "bilanaghalley@56gmail.com",
+      "address": "biru",
+      "salary": "222"
+    },
+    {
+      "id": 10,
+      "name": "bilana ghalley",
+      "email": "bilanaghalley@56gmail.com",
+      "address": "biru",
+      "salary": "222"
+    },
+    {
+      "id": 11,
+      "name": "rtyu",
+      "email": "bilanagha7@gmail.com",
+      "address": "bnm",
+      "salary": "12345"
+    },
+    {
+      "id": 12,
+      "name": "dfghj",
+      "email": "bilina546@gmail.com",
+      "address": "wertg",
+      "salary": "3234"
+    },
+    {
+      "id": 13,
+      "name": "rtyu",
+      "email": "bilina546@gmail.com",
+      "address": "bnm",
+      "salary": "12345"
+    },
+    {
+      "id": 14,
+      "name": "rtyu",
+      "email": "bilanagha7@gmail.com",
+      "address": "werrg",
+      "salary": "1234"
+    },
+    {
+      "id": 15,
+      "name": "rtyu",
+      "email": "bilina546@gmail.com",
+      "address": "sd",
+      "salary": "123"
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 16
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 17
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 19
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 20
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 21
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 22
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 23
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 24
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 25
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 26
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 27
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 28
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 29
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 30
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 31
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 32
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 33
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 34
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 35
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 36
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 37
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 38
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 39
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 40
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 41
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 42
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 43
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 44
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 45
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 46
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 47
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 48
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 49
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 50
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 51
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 52
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 53
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 54
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 55
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 56
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 57
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 58
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 59
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 60
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 61
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 62
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 63
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 64
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 65
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 66
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 67
+    },
+    {
+      "name": "",
+      "email": "",
+      "address": "",
+      "salary": "",
+      "id": 68
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
